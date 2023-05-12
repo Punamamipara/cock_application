@@ -1,5 +1,3 @@
-![Screenshot 2023-05-12 094932](https://github.com/Punamamipara/cock_application/assets/119948028/d58abb89-277d-4dd1-b8d2-25db9bb87469)
-![Screenshot 2023-05-12 094954](https://github.com/Punamamipara/cock_application/assets/119948028/e84d4f5b-3ad6-4b92-94d9-9cf7f30cce3a)
-![Screenshot 2023-05-12 095035](https://github.com/Punamamipara/cock_application/assets/119948028/d146bfe3-2059-4e6e-a2fe-5e27e7d9fb24)
-![Screenshot 2023-05-12 095109](https://github.com/Punamamipara/cock_application/assets/119948028/77205df1-5760-460a-82d8-983a9b4af3d5)
-![Screenshot 2023-05-12 095128](https://github.com/Punamamipara/cock_application/assets/119948028/1eab604e-26aa-4efc-b444-6529609b5b26)
+![Screenshot 2023-05-12 120810](https://github.com/Punamamipara/cock_application/assets/119948028/dafc4b37-38b4-47a3-a869-860b4bcf16d1)
+![Screenshot 2023-05-12 120829](https://github.com/Punamamipara/cock_application/assets/119948028/7e84d3b7-08bd-4d35-9d5f-837344430afd)
+![Screenshot 2023-05-12 120847](https://github.com/Punamamipara/cock_application/assets/119948028/17abc5de-8d8d-42af-bbd6-f98f975c279f)
