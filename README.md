@@ -1,16 +1,5 @@
-# cock_application
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2023-05-12 094932](https://github.com/Punamamipara/cock_application/assets/119948028/d58abb89-277d-4dd1-b8d2-25db9bb87469)
+![Screenshot 2023-05-12 094954](https://github.com/Punamamipara/cock_application/assets/119948028/e84d4f5b-3ad6-4b92-94d9-9cf7f30cce3a)
+![Screenshot 2023-05-12 095035](https://github.com/Punamamipara/cock_application/assets/119948028/d146bfe3-2059-4e6e-a2fe-5e27e7d9fb24)
+![Screenshot 2023-05-12 095109](https://github.com/Punamamipara/cock_application/assets/119948028/77205df1-5760-460a-82d8-983a9b4af3d5)
+![Screenshot 2023-05-12 095128](https://github.com/Punamamipara/cock_application/assets/119948028/1eab604e-26aa-4efc-b444-6529609b5b26)
